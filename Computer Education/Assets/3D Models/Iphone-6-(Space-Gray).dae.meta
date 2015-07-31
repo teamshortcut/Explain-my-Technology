@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 5d21f736e552877449d552debe746c33
+timeCreated: 1438360013
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Component_10
+    100002: Component_10 1
+    100004: Component_11
+    100006: Component_11 1
+    100008: Component_11 2
+    100010: Component_11 3
+    100012: Component_11 4
+    100014: Component_11 5
+    100016: Component_3
+    100018: Component_3 1
+    100020: Component_3 2
+    100022: Component_3 3
+    100024: Component_3 4
+    100026: Component_3 5
+    100028: Component_3 6
+    100030: Component_3 7
+    100032: Component_5
+    100034: Component_5 1
+    100036: Component_9
+    100038: Component_9 1
+    100040: group_0
+    100042: group_1
+    100044: group_10
+    100046: group_11
+    100048: group_12
+    100050: group_13
+    100052: group_14
+    100054: group_15
+    100056: group_16
+    100058: group_17
+    100060: group_18
+    100062: group_19
+    100064: group_2
+    100066: group_20
+    100068: group_21
+    100070: group_22
+    100072: group_23
+    100074: group_24
+    100076: group_25
+    100078: group_26
+    100080: group_27
+    100082: group_28
+    100084: group_29
+    100086: group_3
+    100088: group_30
+    100090: group_31
+    100092: group_32
+    100094: group_33
+    100096: group_34
+    100098: group_35
+    100100: group_36
+    100102: group_37
+    100104: group_38
+    100106: group_39
+    100108: group_4
+    100110: group_40
+    100112: group_5
+    100114: group_6
+    100116: group_7
+    100118: group_8
+    100120: group_9
+    100122: ID103
+    100124: ID129
+    100126: ID137
+    100128: ID156
+    100130: ID183
+    100132: ID209
+    100134: ID217
+    100136: ID225
+    100138: ID258
+    100140: ID266
+    100142: ID285
+    100144: ID293
+    100146: ID333
+    100148: ID375
+    100150: ID393
+    100152: ID410
+    100154: ID418
+    100156: ID440
+    100158: ID448
+    100160: ID465
+    100162: ID51
+    100164: ID519
+    100166: ID529
+    100168: ID537
+    100170: ID545
+    100172: ID553
+    100174: ID561
+    100176: ID569
+    100178: ID577
+    100180: ID585
+    100182: ID59
+    100184: ID597
+    100186: ID605
+    100188: ID613
+    100190: ID621
+    100192: ID629
+    100194: ID645
+    100196: ID653
+    100198: ID661
+    100200: ID669
+    100202: ID677
+    100204: ID685
+    100206: ID693
+    100208: ID701
+    100210: ID709
+    100212: ID728
+    100214: ID736
+    100216: ID769
+    100218: ID779
+    100220: ID78
+    100222: ID787
+    100224: ID797
+    100226: ID805
+    100228: ID826
+    100230: ID836
+    100232: ID844
+    100234: ID852
+    100236: ID860
+    100238: ID889
+    100240: ID897
+    100242: ID905
+    100244: ID933
+    100246: ID95
+    100248: ID960
+    100250: ID960 1
+    100252: ID968
+    100254: ID968 1
+    100256: ID976
+    100258: ID976 1
+    100260: instance_0
+    100262: instance_1
+    100264: instance_10
+    100266: instance_11
+    100268: instance_12
+    100270: instance_13
+    100272: instance_14
+    100274: instance_15
+    100276: instance_16
+    100278: instance_17
+    100280: instance_18
+    100282: instance_19
+    100284: instance_2
+    100286: instance_20
+    100288: instance_21
+    100290: instance_3
+    100292: instance_4
+    100294: instance_5
+    100296: instance_6
+    100298: instance_7
+    100300: instance_8
+    100302: instance_9
+    100304: //RootNode
+    100306: iPhone_1
+    100308: iPhone_6_Official
+    400000: Component_10
+    400002: Component_10 1
+    400004: Component_11
+    400006: Component_11 1
+    400008: Component_11 2
+    400010: Component_11 3
+    400012: Component_11 4
+    400014: Component_11 5
+    400016: Component_3
+    400018: Component_3 1
+    400020: Component_3 2
+    400022: Component_3 3
+    400024: Component_3 4
+    400026: Component_3 5
+    400028: Component_3 6
+    400030: Component_3 7
+    400032: Component_5
+    400034: Component_5 1
+    400036: Component_9
+    400038: Component_9 1
+    400040: group_0
+    400042: group_1
+    400044: group_10
+    400046: group_11
+    400048: group_12
+    400050: group_13
+    400052: group_14
+    400054: group_15
+    400056: group_16
+    400058: group_17
+    400060: group_18
+    400062: group_19
+    400064: group_2
+    400066: group_20
+    400068: group_21
+    400070: group_22
+    400072: group_23
+    400074: group_24
+    400076: group_25
+    400078: group_26
+    400080: group_27
+    400082: group_28
+    400084: group_29
+    400086: group_3
+    400088: group_30
+    400090: group_31
+    400092: group_32
+    400094: group_33
+    400096: group_34
+    400098: group_35
+    400100: group_36
+    400102: group_37
+    400104: group_38
+    400106: group_39
+    400108: group_4
+    400110: group_40
+    400112: group_5
+    400114: group_6
+    400116: group_7
+    400118: group_8
+    400120: group_9
+    400122: ID103
+    400124: ID129
+    400126: ID137
+    400128: ID156
+    400130: ID183
+    400132: ID209
+    400134: ID217
+    400136: ID225
+    400138: ID258
+    400140: ID266
+    400142: ID285
+    400144: ID293
+    400146: ID333
+    400148: ID375
+    400150: ID393
+    400152: ID410
+    400154: ID418
+    400156: ID440
+    400158: ID448
+    400160: ID465
+    400162: ID51
+    400164: ID519
+    400166: ID529
+    400168: ID537
+    400170: ID545
+    400172: ID553
+    400174: ID561
+    400176: ID569
+    400178: ID577
+    400180: ID585
+    400182: ID59
+    400184: ID597
+    400186: ID605
+    400188: ID613
+    400190: ID621
+    400192: ID629
+    400194: ID645
+    400196: ID653
+    400198: ID661
+    400200: ID669
+    400202: ID677
+    400204: ID685
+    400206: ID693
+    400208: ID701
+    400210: ID709
+    400212: ID728
+    400214: ID736
+    400216: ID769
+    400218: ID779
+    400220: ID78
+    400222: ID787
+    400224: ID797
+    400226: ID805
+    400228: ID826
+    400230: ID836
+    400232: ID844
+    400234: ID852
+    400236: ID860
+    400238: ID889
+    400240: ID897
+    400242: ID905
+    400244: ID933
+    400246: ID95
+    400248: ID960
+    400250: ID960 1
+    400252: ID968
+    400254: ID968 1
+    400256: ID976
+    400258: ID976 1
+    400260: instance_0
+    400262: instance_1
+    400264: instance_10
+    400266: instance_11
+    400268: instance_12
+    400270: instance_13
+    400272: instance_14
+    400274: instance_15
+    400276: instance_16
+    400278: instance_17
+    400280: instance_18
+    400282: instance_19
+    400284: instance_2
+    400286: instance_20
+    400288: instance_21
+    400290: instance_3
+    400292: instance_4
+    400294: instance_5
+    400296: instance_6
+    400298: instance_7
+    400300: instance_8
+    400302: instance_9
+    400304: //RootNode
+    400306: iPhone_1
+    400308: iPhone_6_Official
+    2300000: Component_10
+    2300002: Component_10 1
+    2300004: Component_11
+    2300006: Component_11 1
+    2300008: Component_11 2
+    2300010: Component_11 3
+    2300012: Component_11 4
+    2300014: Component_11 5
+    2300016: Component_3
+    2300018: Component_3 1
+    2300020: Component_3 2
+    2300022: Component_3 3
+    2300024: Component_3 4
+    2300026: Component_3 5
+    2300028: Component_3 6
+    2300030: Component_3 7
+    2300032: Component_5
+    2300034: Component_5 1
+    2300036: Component_9
+    2300038: Component_9 1
+    2300040: group_10
+    2300042: group_11
+    2300044: group_13
+    2300046: group_14
+    2300048: group_15
+    2300050: group_18
+    2300052: group_19
+    2300054: group_2
+    2300056: group_21
+    2300058: group_22
+    2300060: group_23
+    2300062: group_25
+    2300064: group_26
+    2300066: group_27
+    2300068: group_28
+    2300070: group_29
+    2300072: group_3
+    2300074: group_31
+    2300076: group_32
+    2300078: group_33
+    2300080: group_34
+    2300082: group_36
+    2300084: group_37
+    2300086: group_38
+    2300088: group_39
+    2300090: group_4
+    2300092: group_40
+    2300094: group_5
+    2300096: group_6
+    2300098: group_7
+    2300100: group_8
+    2300102: ID103
+    2300104: ID129
+    2300106: ID137
+    2300108: ID156
+    2300110: ID183
+    2300112: ID209
+    2300114: ID217
+    2300116: ID225
+    2300118: ID258
+    2300120: ID266
+    2300122: ID285
+    2300124: ID293
+    2300126: ID333
+    2300128: ID375
+    2300130: ID393
+    2300132: ID410
+    2300134: ID418
+    2300136: ID440
+    2300138: ID448
+    2300140: ID465
+    2300142: ID51
+    2300144: ID519
+    2300146: ID529
+    2300148: ID537
+    2300150: ID545
+    2300152: ID553
+    2300154: ID561
+    2300156: ID569
+    2300158: ID577
+    2300160: ID585
+    2300162: ID59
+    2300164: ID597
+    2300166: ID605
+    2300168: ID613
+    2300170: ID621
+    2300172: ID629
+    2300174: ID645
+    2300176: ID653
+    2300178: ID661
+    2300180: ID669
+    2300182: ID677
+    2300184: ID685
+    2300186: ID693
+    2300188: ID701
+    2300190: ID709
+    2300192: ID728
+    2300194: ID736
+    2300196: ID769
+    2300198: ID779
+    2300200: ID78
+    2300202: ID787
+    2300204: ID797
+    2300206: ID805
+    2300208: ID826
+    2300210: ID836
+    2300212: ID844
+    2300214: ID852
+    2300216: ID860
+    2300218: ID889
+    2300220: ID897
+    2300222: ID905
+    2300224: ID933
+    2300226: ID95
+    2300228: ID960
+    2300230: ID960 1
+    2300232: ID968
+    2300234: ID968 1
+    2300236: ID976
+    2300238: ID976 1
+    2300240: iPhone_1
+    3300000: Component_10
+    3300002: Component_10 1
+    3300004: Component_11
+    3300006: Component_11 1
+    3300008: Component_11 2
+    3300010: Component_11 3
+    3300012: Component_11 4
+    3300014: Component_11 5
+    3300016: Component_3
+    3300018: Component_3 1
+    3300020: Component_3 2
+    3300022: Component_3 3
+    3300024: Component_3 4
+    3300026: Component_3 5
+    3300028: Component_3 6
+    3300030: Component_3 7
+    3300032: Component_5
+    3300034: Component_5 1
+    3300036: Component_9
+    3300038: Component_9 1
+    3300040: group_10
+    3300042: group_11
+    3300044: group_13
+    3300046: group_14
+    3300048: group_15
+    3300050: group_18
+    3300052: group_19
+    3300054: group_2
+    3300056: group_21
+    3300058: group_22
+    3300060: group_23
+    3300062: group_25
+    3300064: group_26
+    3300066: group_27
+    3300068: group_28
+    3300070: group_29
+    3300072: group_3
+    3300074: group_31
+    3300076: group_32
+    3300078: group_33
+    3300080: group_34
+    3300082: group_36
+    3300084: group_37
+    3300086: group_38
+    3300088: group_39
+    3300090: group_4
+    3300092: group_40
+    3300094: group_5
+    3300096: group_6
+    3300098: group_7
+    3300100: group_8
+    3300102: ID103
+    3300104: ID129
+    3300106: ID137
+    3300108: ID156
+    3300110: ID183
+    3300112: ID209
+    3300114: ID217
+    3300116: ID225
+    3300118: ID258
+    3300120: ID266
+    3300122: ID285
+    3300124: ID293
+    3300126: ID333
+    3300128: ID375
+    3300130: ID393
+    3300132: ID410
+    3300134: ID418
+    3300136: ID440
+    3300138: ID448
+    3300140: ID465
+    3300142: ID51
+    3300144: ID519
+    3300146: ID529
+    3300148: ID537
+    3300150: ID545
+    3300152: ID553
+    3300154: ID561
+    3300156: ID569
+    3300158: ID577
+    3300160: ID585
+    3300162: ID59
+    3300164: ID597
+    3300166: ID605
+    3300168: ID613
+    3300170: ID621
+    3300172: ID629
+    3300174: ID645
+    3300176: ID653
+    3300178: ID661
+    3300180: ID669
+    3300182: ID677
+    3300184: ID685
+    3300186: ID693
+    3300188: ID701
+    3300190: ID709
+    3300192: ID728
+    3300194: ID736
+    3300196: ID769
+    3300198: ID779
+    3300200: ID78
+    3300202: ID787
+    3300204: ID797
+    3300206: ID805
+    3300208: ID826
+    3300210: ID836
+    3300212: ID844
+    3300214: ID852
+    3300216: ID860
+    3300218: ID889
+    3300220: ID897
+    3300222: ID905
+    3300224: ID933
+    3300226: ID95
+    3300228: ID960
+    3300230: ID960 1
+    3300232: ID968
+    3300234: ID968 1
+    3300236: ID976
+    3300238: ID976 1
+    3300240: iPhone_1
+    4300000: group_2
+    4300002: Component_11
+    4300004: group_3
+    4300006: ID51
+    4300008: ID59
+    4300010: group_4
+    4300012: ID78
+    4300014: group_5
+    4300016: ID95
+    4300018: ID103
+    4300020: group_6
+    4300022: group_7
+    4300024: ID129
+    4300026: ID137
+    4300028: group_8
+    4300030: ID156
+    4300032: group_10
+    4300034: ID183
+    4300036: group_11
+    4300038: ID209
+    4300040: ID217
+    4300042: ID225
+    4300044: group_13
+    4300046: group_14
+    4300048: ID258
+    4300050: ID266
+    4300052: group_15
+    4300054: ID285
+    4300056: ID293
+    4300058: Component_3
+    4300060: group_18
+    4300062: ID333
+    4300064: Component_5
+    4300066: Component_5
+    4300068: Component_10
+    4300070: ID375
+    4300072: Component_10
+    4300074: ID393
+    4300076: group_19
+    4300078: ID410
+    4300080: ID418
+    4300082: group_21
+    4300084: ID440
+    4300086: ID448
+    4300088: group_22
+    4300090: ID465
+    4300092: group_23
+    4300094: group_25
+    4300096: group_26
+    4300098: group_27
+    4300100: group_28
+    4300102: ID519
+    4300104: ID529
+    4300106: ID537
+    4300108: ID545
+    4300110: ID553
+    4300112: ID561
+    4300114: ID569
+    4300116: ID577
+    4300118: ID585
+    4300120: ID597
+    4300122: ID605
+    4300124: ID613
+    4300126: ID621
+    4300128: ID629
+    4300130: iPhone_1
+    4300132: ID645
+    4300134: ID653
+    4300136: ID661
+    4300138: ID669
+    4300140: ID677
+    4300142: ID685
+    4300144: ID693
+    4300146: ID701
+    4300148: ID709
+    4300150: group_29
+    4300152: ID728
+    4300154: ID736
+    4300156: group_31
+    4300158: group_32
+    4300160: ID769
+    4300162: ID779
+    4300164: ID787
+    4300166: ID797
+    4300168: ID805
+    4300170: group_33
+    4300172: ID826
+    4300174: ID836
+    4300176: ID844
+    4300178: ID852
+    4300180: ID860
+    4300182: group_34
+    4300184: group_36
+    4300186: ID889
+    4300188: ID897
+    4300190: ID905
+    4300192: group_37
+    4300194: group_38
+    4300196: ID933
+    4300198: group_39
+    4300200: Component_9
+    4300202: ID960
+    4300204: ID968
+    4300206: ID976
+    4300208: group_40
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
